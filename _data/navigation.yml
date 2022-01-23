@@ -7,7 +7,7 @@ main:
     url: /talks/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://medium.com/@danjamker"
     
   - title: "CV"
     url: "https://drive.google.com/file/d/1CDdiQSsZ9IkgNKdmSG_N5ZSjKs9OUM3g/view?usp=drivesdk"
