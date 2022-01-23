@@ -12,5 +12,6 @@ I am a Senior Data Scientist, specialising in research and development of large 
 
 I am looking for a new role where I can deliver impact, develop my research and development skills, scale ML platforms and promote the adoption of modern technologies.
 
-PhD Summary
+## PhD Summary
+
 My PhD focused on the application of ML methods to large scale prediction of viral content within social media, resulting in the development of large scale ML models (Java, Python). I trained these models on billions of observations (1Tb+ processed in Hadoop and Spark) in predicting the change of a community's language. Not only predicting how far content would diffuse but also who controlled the follow of the diffusion and who were susceptible to adopt new content. 
